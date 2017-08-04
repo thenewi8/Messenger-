@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>MessengerHeader</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Activer la déconnexion de Messenger ✌🏽️ </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k1</string>
+			<key>label</key>
+			<string>Activer déconnexion</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Activer le mode plein écran et cacher la barre de statut</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>key</key>
+			<string>k2</string>
+			<key>label</key>
+			<string>Plein Écran</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Activer l'ancien design</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>key</key>
+			<string>k14</string>
+			<key>label</key>
+			<string>Ancien Design</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Clavier Sombre</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>key</key>
+			<string>k3</string>
+			<key>label</key>
+			<string>Clavier Noir</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Envoyer des Photos en Haute Qualité</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k4</string>
+			<key>label</key>
+			<string>Envoyer des Photos en HD</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Désactiver que vous êtes entrain d'écrire</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k9</string>
+			<key>label</key>
+			<string>Désactiver Notification écriture</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Supprime la bannière d'invitation à Messenger </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k11</string>
+			<key>label</key>
+			<string>Désactiver l'invasion dans Messenger</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Désactiver marquer comme lu pour ne plus afficher à votre correspondant que vous avez lu son message.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k7</string>
+			<key>label</key>
+			<string>Désactiver Marquer comme lu</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Réglages Développeur</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k5</string>
+			<key>label</key>
+			<string>Réglages Intérieur</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Vous pouvez envoyer des Photos en illimité</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k6</string>
+			<key>label</key>
+			<string>Photos illimitées</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Messenger++ © 2016 2017 By RyanAirline 🇫🇷</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>apply</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Sauvegarder</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Credits </string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Crédits to Unlimapps ✌🏽️</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Snapchat</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>default</key>
+			<false/>
+			<key>icon</key>
+			<string>Twitter@2x.png</string>
+			<key>label</key>
+			<string>Follow me on Snapchat</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string> Messenger++</string>
+</dict>
+</plist>
